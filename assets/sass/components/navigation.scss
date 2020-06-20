@@ -1,0 +1,36 @@
+//nav 
+
+sup {
+    font-size: 15px;
+    vertical-align: super;
+}
+
+
+
+
+#Navid {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    width: 100%;
+    padding: 5px 100px ;
+
+    .navi__logo {
+        display: flex;
+        justify-content: space-between;
+         
+    }
+  
+
+    .navi__list {
+        display: flex;
+       
+       
+    }
+   .iconos {
+       flex-grow: initial;
+   }
+ 
+}
+

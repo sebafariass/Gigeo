@@ -1,0 +1,38 @@
+// Imports
+
+//base
+
+@import 'base/reset';
+@import 'base/typography';
+
+//abstracts
+@import 'abstracts/variables'; 
+@import 'abstracts/helpers.scss';
+
+
+//vendors 
+
+@import 'vendors/bootstrap/bootstrap.scss';
+
+
+
+
+//components
+@import 'components/navigation'; 
+@import 'components/botones';
+@import 'components/videos';
+
+
+
+//layout
+@import 'layout/herosec';
+@import 'layout/header';
+
+/*
+@import 'layout/comentarios';
+@import 'layout/pagination';
+*/
+
+
+
+

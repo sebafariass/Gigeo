@@ -1,0 +1,30 @@
+
+// seccionhero profile tamaño de imagen-padding txt 
+
+
+.profile { 
+  display: flex;
+  padding: 5px 100px ;
+  align-items: center;
+  padding-top: 20px;
+  justify-content: space-between;
+}
+
+.profile__container {
+  display: flex;
+  align-items: center;
+}
+
+.profile__imagen {
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+ 
+
+  
+}
+
+.profile__parrafo {
+padding-left: 30px;;
+ 
+}
