@@ -6,8 +6,8 @@
 @import 'base/typography';
 
 //abstracts
-@import 'abstracts/variables'; 
-@import 'abstracts/helpers.scss';
+
+@import 'abstracts/helpers';
 
 
 //vendors 
@@ -25,8 +25,10 @@
 
 
 //layout
-@import 'layout/herosec';
 @import 'layout/header';
+@import 'layout/herosec';
+@import 'layout/videos';
+
 
 /*
 @import 'layout/comentarios';

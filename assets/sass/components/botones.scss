@@ -1,3 +1,30 @@
-.botones {
-    display: flex;
+// 
+
+
+
+// BOTONES CON COLORES
+
+.botton__red {
+    opacity: 0.8;
+    background-color: rgb(216, 82, 49);
+    border-radius: initial;
+  
+    
+
+  
 }
+.botton__blue {
+    opacity: 0.8;
+    background-color: rgb(87, 137, 212);
+    border-radius: initial;
+    
+    
+}
+
+.botton {
+    display: flex;
+    align-items: center;
+    
+    
+}
+

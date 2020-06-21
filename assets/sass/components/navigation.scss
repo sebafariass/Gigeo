@@ -5,23 +5,23 @@ sup {
     vertical-align: super;
 }
 
-
-
-
 #Navid {
     display: flex;
     justify-content: space-between;
     align-items: center;
-    position: fixed;
-    width: 100%;
-    padding: 5px 100px ;
+   
+     width: 100%;
+     padding: 0px 30px;
+   
+  ;
 
     .navi__logo {
         display: flex;
         justify-content: space-between;
+       
          
     }
-  
+
 
     .navi__list {
         display: flex;
@@ -33,4 +33,5 @@ sup {
    }
  
 }
+
 

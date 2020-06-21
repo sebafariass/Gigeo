@@ -4,27 +4,38 @@
 
 .profile { 
   display: flex;
-  padding: 5px 100px ;
-  align-items: center;
-  padding-top: 20px;
   justify-content: space-between;
-}
-
-.profile__container {
-  display: flex;
+  padding: 20px 0px;
   align-items: center;
-}
+  width: 100%;
 
-.profile__imagen {
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
- 
-
+  .profile__container {
+    display: flex;
+   
+   
+  }
+  .profile__imagen {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+    
+   
+  }
+  .profile__parrafo {
+    padding-left: 30px;
+    
+     
+    }
   
 }
 
-.profile__parrafo {
-padding-left: 30px;;
- 
+
+#Inicio {
+  
+  display: flex;
+  justify-content: space-between;
+  padding: 0px 0px;
+ width: 100%;
+ align-items: center;
+
 }
